@@ -1,7 +1,8 @@
 # 全盛娱乐
 
 
-<font color=#00CED1	 size=18 face="微软雅黑">纸牌和益智相结合的经典游戏，规则简单，操作灵活，一定让你挑灯夜战，欲罢不能。</font>
+<font color=#00CED1	 size=18 face="微软雅黑">全盛娱乐，是一款全新的休闲游戏，重装上线精美画面，简单畅爽的游戏体验，炫酷的特效。
+  不需等待，随时随地手机上就可以玩上几把！</font>
 
 
 ![image](https://github.com/yay604882/zhizhuzhipai/blob/master/zhizhu.jpg)
